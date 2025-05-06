@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi I'm Sherica 👋
 
-<!--
-**Sher106/Sher106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m studying Computer Science at Montclair State University at the Masters Level<br/>
+🌱 I’m currently learning more Frontend and Backend Coding<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 What I've Done<br/>
+🔧 Full-stack web development (HTML, CSS, Bootstrap, Javascript, Java, Flask, http.server, Jinja2, PHP)<br/>
+🧬 Machine Learning & AI (TensorFlow, Scikit-learn, OpenCV)<br/>
+🗃️ Database design (MySQL)<br/>
+📈 Data analysis & visualization (Pandas, NumPy, Matplotlib)<br/>
+
+📂 Featured Projects<br/>
+🤔 Hotel Management- Management system for staff and customers<br/>
+🧠 Brain MRI Classifier – CNN-based medical imaging tool for tumor detection<br/>
+🛍️ E-Commerce Platform – Full-stack store with cart and admin tools<br/>
+🌐 IoT Smart Dashboard – Real-time environmental monitoring 
